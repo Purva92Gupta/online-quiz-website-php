@@ -20,3 +20,5 @@ To run this project, you can follow below steps.
 - In your browser you can see it running on localhost or 127.0.0.1
 
 Screenshots of all the screens can be seen in "online-quiz-website-php/storage/screenshots"
+
+<img width="1411" alt="1  Login" src="https://github.com/Purva92Gupta/online-quiz-website-php/assets/97067068/8bf7d487-c13a-4de5-85d7-162447f4f92a">
